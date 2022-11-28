@@ -1,5 +1,3 @@
 # CG3D
-Projeto Computacao Grafica usando JAVA3D
 
-Jovo 3D desenvolvido em Eclipse IDE com java e livraria de JAVA3D. 
-Trabalho realizado para avaliação da UC de Computaç
+ Game developed for Computer Graphics Course Evaluation using Java and Java3D API with the help of Eclipse IDE.
