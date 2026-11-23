@@ -1,27 +1,9 @@
 # CG3D
 
-Game developed for Computer Graphics Course Evaluation using Java and Java3D API.
+My Java3D project for the Computer Graphics course. This repo contains the scene code and a rotating-figure class.
 
-## Technologies
-- Java
-- Java3D API
-- Eclipse IDE
+## Open the project
 
-## Features
-- 3D rendering
-- Camera controls
-- Object manipulation
-- Lighting effects
-- Collision detection
+Import it into Eclipse and configure the Java3D dependencies. The entry point is `src/projeto3d2/Projeto3d22.java`.
 
-## Setup
-1. Install Java + Java3D
-2. Clone repository
-3. Open in Eclipse
-4. Run Main.java
-
-## License
-MIT
-
-## Author
-Luís Barros
+Source files are under `src/`; `bin/` contains compiled output from the original project.
